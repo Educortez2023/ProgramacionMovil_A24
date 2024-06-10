@@ -1,0 +1,7 @@
+<resources>
+    <color name="slateblue">#673AB7</color>
+    <color name="red">#DC1156</color>
+    <color name="black">#FF000000</color>
+    <color name="white"> #FFFFFFFF</color>
+    <color name="purple">#78068C</color>
+</resources>
