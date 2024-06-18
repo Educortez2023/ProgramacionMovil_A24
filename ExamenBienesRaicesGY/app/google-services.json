@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877918258872",
+    "project_id": "bienesraicesgye-acda1",
+    "storage_bucket": "bienesraicesgye-acda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877918258872:android:61bbae056044c315ce964d",
+        "android_client_info": {
+          "package_name": "com.example.bienesraicesgye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSPZw8EYweyeZ5QhV1sINWw8fBfCtCGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877918258872:android:d26e2d78bcf0554ece964d",
+        "android_client_info": {
+          "package_name": "com.example.examenbienesraicesgy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSPZw8EYweyeZ5QhV1sINWw8fBfCtCGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
